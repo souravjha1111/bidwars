@@ -318,5 +318,245 @@
     "name": "Shakib Al Hasan",
     "description": "World-class all-round matchwinner.",
     "image": "images/cricket/40.jpg"
+  },
+  {
+    "id": "cricket-41",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Sourav Ganguly",
+    "description": "Elegant left-hander and fearless Indian captain.",
+    "image": "images/cricket/41.jpg"
+  },
+  {
+    "id": "cricket-42",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Anil Kumble",
+    "description": "Legendary leg-spinner and India's great match winner.",
+    "image": "images/cricket/42.jpg"
+  },
+  {
+    "id": "cricket-43",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Yuvraj Singh",
+    "description": "Explosive all-rounder and six-hitting World Cup hero.",
+    "image": "images/cricket/43.jpg"
+  },
+  {
+    "id": "cricket-44",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Harbhajan Singh",
+    "description": "Off-spin wizard with hundreds of international wickets.",
+    "image": "images/cricket/44.jpg"
+  },
+  {
+    "id": "cricket-45",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "VVS Laxman",
+    "description": "Elegant Test specialist famous for match-saving innings.",
+    "image": "images/cricket/45.jpg"
+  },
+  {
+    "id": "cricket-46",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Mohammed Shami",
+    "description": "Skilled fast bowler known for seam and reverse swing.",
+    "image": "images/cricket/46.jpg"
+  },
+  {
+    "id": "cricket-47",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Virender Sehwag",
+    "description": "Fearless opener who attacked bowlers from ball one.",
+    "image": "images/cricket/47.jpg"
+  },
+  {
+    "id": "cricket-48",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Matthew Hayden",
+    "description": "Powerful opener known for dominant stroke play.",
+    "image": "images/cricket/48.jpg"
+  },
+  {
+    "id": "cricket-49",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Brett Lee",
+    "description": "Lightning-fast pacer with aggressive attacking style.",
+    "image": "images/cricket/49.jpg"
+  },
+  {
+    "id": "cricket-50",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Michael Clarke",
+    "description": "Elegant batsman and accomplished Australian captain.",
+    "image": "images/cricket/50.jpg"
+  },
+  {
+    "id": "cricket-51",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Mitchell Starc",
+    "description": "Left-arm pace ace with devastating yorkers.",
+    "image": "images/cricket/51.jpg"
+  },
+  {
+    "id": "cricket-52",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Steve Waugh",
+    "description": "Tough-minded captain and dependable Test batsman.",
+    "image": "images/cricket/52.jpg"
+  },
+  {
+    "id": "cricket-53",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Curtly Ambrose",
+    "description": "Towering fast bowler who terrorized batting lineups.",
+    "image": "images/cricket/53.jpg"
+  },
+  {
+    "id": "cricket-54",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Clive Lloyd",
+    "description": "Powerful batsman and legendary World Cup captain.",
+    "image": "images/cricket/54.jpg"
+  },
+  {
+    "id": "cricket-55",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Shivnarine Chanderpaul",
+    "description": "Unorthodox left-hander with incredible Test consistency.",
+    "image": "images/cricket/55.jpg"
+  },
+  {
+    "id": "cricket-56",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Dwayne Bravo",
+    "description": "Clever all-rounder and specialist death bowler.",
+    "image": "images/cricket/56.jpg"
+  },
+  {
+    "id": "cricket-57",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "Graeme Smith",
+    "description": "Tough opening batsman and long-serving Test captain.",
+    "image": "images/cricket/57.jpg"
+  },
+  {
+    "id": "cricket-58",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "Makhaya Ntini",
+    "description": "Energetic fast bowler and South African cricket icon.",
+    "image": "images/cricket/58.jpg"
+  },
+  {
+    "id": "cricket-59",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Imran Khan",
+    "description": "Legendary all-rounder and captain of Pakistan's 1992 World Cup team.",
+    "image": "images/cricket/59.jpg"
+  },
+  {
+    "id": "cricket-60",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Inzamam-ul-Haq",
+    "description": "Powerful middle-order batsman with effortless timing.",
+    "image": "images/cricket/60.jpg"
+  },
+  {
+    "id": "cricket-61",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Waqar Younis",
+    "description": "Reverse-swing master with devastating pace and yorkers.",
+    "image": "images/cricket/61.jpg"
+  },
+  {
+    "id": "cricket-62",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Mohammad Rizwan",
+    "description": "Energetic wicketkeeper-batsman and reliable run scorer.",
+    "image": "images/cricket/62.jpg"
+  },
+  {
+    "id": "cricket-63",
+    "category": "cricket",
+    "subcategory": "Sri Lanka",
+    "name": "Mahela Jayawardene",
+    "description": "Elegant batsman and technically brilliant captain.",
+    "image": "images/cricket/63.jpg"
+  },
+  {
+    "id": "cricket-64",
+    "category": "cricket",
+    "subcategory": "Sri Lanka",
+    "name": "Chaminda Vaas",
+    "description": "Left-arm swing bowler with outstanding ODI records.",
+    "image": "images/cricket/64.jpg"
+  },
+  {
+    "id": "cricket-65",
+    "category": "cricket",
+    "subcategory": "England",
+    "name": "Andrew Flintoff",
+    "description": "Powerful all-rounder who excelled with bat and ball.",
+    "image": "images/cricket/65.jpg"
+  },
+  {
+    "id": "cricket-66",
+    "category": "cricket",
+    "subcategory": "England",
+    "name": "Stuart Broad",
+    "description": "Tall fast bowler and prolific international wicket-taker.",
+    "image": "images/cricket/66.jpg"
+  },
+  {
+    "id": "cricket-67",
+    "category": "cricket",
+    "subcategory": "New Zealand",
+    "name": "Ross Taylor",
+    "description": "Powerful middle-order batsman and New Zealand great.",
+    "image": "images/cricket/67.jpg"
+  },
+  {
+    "id": "cricket-68",
+    "category": "cricket",
+    "subcategory": "New Zealand",
+    "name": "Daniel Vettori",
+    "description": "Clever left-arm spinner and accomplished all-rounder.",
+    "image": "images/cricket/68.jpg"
+  },
+  {
+    "id": "cricket-69",
+    "category": "cricket",
+    "subcategory": "Afghanistan",
+    "name": "Rashid Khan",
+    "description": "World-class leg-spinner and explosive lower-order hitter.",
+    "image": "images/cricket/69.jpg"
+  },
+  {
+    "id": "cricket-70",
+    "category": "cricket",
+    "subcategory": "Bangladesh",
+    "name": "Mustafizur Rahman",
+    "description": "Left-arm cutter specialist with deceptive variations.",
+    "image": "images/cricket/70.jpg"
   }
 ]
