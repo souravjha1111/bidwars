@@ -1,0 +1,22 @@
+[
+  {
+    "id": "marvel",
+    "label": "Marvel",
+    "count": 40
+  },
+  {
+    "id": "anime",
+    "label": "Anime",
+    "count": 40
+  },
+  {
+    "id": "cricket",
+    "label": "Cricket",
+    "count": 40
+  },
+  {
+    "id": "football",
+    "label": "Football",
+    "count": 40
+  }
+]

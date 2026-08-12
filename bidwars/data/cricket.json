@@ -1,0 +1,322 @@
+[
+  {
+    "id": "cricket-01",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Sachin Tendulkar",
+    "description": "The Little Master with 100 international tons.",
+    "image": "images/cricket/1.jpg"
+  },
+  {
+    "id": "cricket-02",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Virat Kohli",
+    "description": "Chase master and relentless run machine.",
+    "image": "images/cricket/2.jpg"
+  },
+  {
+    "id": "cricket-03",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "MS Dhoni",
+    "description": "Ice-cool finisher and master captain.",
+    "image": "images/cricket/3.jpg"
+  },
+  {
+    "id": "cricket-04",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Rohit Sharma",
+    "description": "The Hitman of record-breaking double tons.",
+    "image": "images/cricket/4.jpg"
+  },
+  {
+    "id": "cricket-05",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Rahul Dravid",
+    "description": "The Wall of Indian batting.",
+    "image": "images/cricket/5.jpg"
+  },
+  {
+    "id": "cricket-06",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Jasprit Bumrah",
+    "description": "Yorker specialist with a unique action.",
+    "image": "images/cricket/6.jpg"
+  },
+  {
+    "id": "cricket-07",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Kapil Dev",
+    "description": "All-rounder who lifted the 1983 World Cup.",
+    "image": "images/cricket/7.jpg"
+  },
+  {
+    "id": "cricket-08",
+    "category": "cricket",
+    "subcategory": "India",
+    "name": "Ravindra Jadeja",
+    "description": "Livewire all-rounder and electric fielder.",
+    "image": "images/cricket/8.jpg"
+  },
+  {
+    "id": "cricket-09",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Ricky Ponting",
+    "description": "Aggressive captain and three-time champion.",
+    "image": "images/cricket/9.jpg"
+  },
+  {
+    "id": "cricket-10",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Shane Warne",
+    "description": "Leg-spin wizard of over 700 Test wickets.",
+    "image": "images/cricket/10.jpg"
+  },
+  {
+    "id": "cricket-11",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Steve Smith",
+    "description": "Quirky, unorthodox run-scoring machine.",
+    "image": "images/cricket/11.jpg"
+  },
+  {
+    "id": "cricket-12",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Glenn McGrath",
+    "description": "Metronomic fast-bowling great.",
+    "image": "images/cricket/12.jpg"
+  },
+  {
+    "id": "cricket-13",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Adam Gilchrist",
+    "description": "Explosive wicketkeeper-batsman.",
+    "image": "images/cricket/13.jpg"
+  },
+  {
+    "id": "cricket-14",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "Pat Cummins",
+    "description": "Spearhead pacer and World Cup-winning captain.",
+    "image": "images/cricket/14.jpg"
+  },
+  {
+    "id": "cricket-15",
+    "category": "cricket",
+    "subcategory": "Australia",
+    "name": "David Warner",
+    "description": "Fearless, hard-hitting opener.",
+    "image": "images/cricket/15.jpg"
+  },
+  {
+    "id": "cricket-16",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Brian Lara",
+    "description": "Record-breaking 400-not-out artist.",
+    "image": "images/cricket/16.jpg"
+  },
+  {
+    "id": "cricket-17",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Viv Richards",
+    "description": "Swaggering king of intimidation.",
+    "image": "images/cricket/17.jpg"
+  },
+  {
+    "id": "cricket-18",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Chris Gayle",
+    "description": "The Universe Boss of six-hitting.",
+    "image": "images/cricket/18.jpg"
+  },
+  {
+    "id": "cricket-19",
+    "category": "cricket",
+    "subcategory": "West Indies",
+    "name": "Malcolm Marshall",
+    "description": "Fearsome fast-bowling legend.",
+    "image": "images/cricket/19.jpg"
+  },
+  {
+    "id": "cricket-20",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "Jacques Kallis",
+    "description": "Greatest all-rounder of his era.",
+    "image": "images/cricket/20.jpg"
+  },
+  {
+    "id": "cricket-21",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "AB de Villiers",
+    "description": "Mr. 360 with a shot for every ball.",
+    "image": "images/cricket/21.jpg"
+  },
+  {
+    "id": "cricket-22",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "Dale Steyn",
+    "description": "Ferocious swing-bowling ace.",
+    "image": "images/cricket/22.jpg"
+  },
+  {
+    "id": "cricket-23",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "Hashim Amla",
+    "description": "Elegant and prolific run-maker.",
+    "image": "images/cricket/23.jpg"
+  },
+  {
+    "id": "cricket-24",
+    "category": "cricket",
+    "subcategory": "South Africa",
+    "name": "Kagiso Rabada",
+    "description": "Quick, aggressive strike bowler.",
+    "image": "images/cricket/24.jpg"
+  },
+  {
+    "id": "cricket-25",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Wasim Akram",
+    "description": "The Sultan of reverse swing.",
+    "image": "images/cricket/25.jpg"
+  },
+  {
+    "id": "cricket-26",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Babar Azam",
+    "description": "Silky modern-day run machine.",
+    "image": "images/cricket/26.jpg"
+  },
+  {
+    "id": "cricket-27",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Shoaib Akhtar",
+    "description": "The Rawalpindi Express, fastest ever.",
+    "image": "images/cricket/27.jpg"
+  },
+  {
+    "id": "cricket-28",
+    "category": "cricket",
+    "subcategory": "Pakistan",
+    "name": "Shahid Afridi",
+    "description": "Boom Boom big-hitting all-rounder.",
+    "image": "images/cricket/28.jpg"
+  },
+  {
+    "id": "cricket-29",
+    "category": "cricket",
+    "subcategory": "Sri Lanka",
+    "name": "Kumar Sangakkara",
+    "description": "Classy keeper-batsman and great.",
+    "image": "images/cricket/29.jpg"
+  },
+  {
+    "id": "cricket-30",
+    "category": "cricket",
+    "subcategory": "Sri Lanka",
+    "name": "Muttiah Muralitharan",
+    "description": "Off-spin king of 800 Test wickets.",
+    "image": "images/cricket/30.jpg"
+  },
+  {
+    "id": "cricket-31",
+    "category": "cricket",
+    "subcategory": "Sri Lanka",
+    "name": "Lasith Malinga",
+    "description": "Slinging yorker master.",
+    "image": "images/cricket/31.jpg"
+  },
+  {
+    "id": "cricket-32",
+    "category": "cricket",
+    "subcategory": "Sri Lanka",
+    "name": "Sanath Jayasuriya",
+    "description": "Explosive opener who reshaped ODIs.",
+    "image": "images/cricket/32.jpg"
+  },
+  {
+    "id": "cricket-33",
+    "category": "cricket",
+    "subcategory": "England",
+    "name": "Ben Stokes",
+    "description": "Match-winning all-round talisman.",
+    "image": "images/cricket/33.jpg"
+  },
+  {
+    "id": "cricket-34",
+    "category": "cricket",
+    "subcategory": "England",
+    "name": "Joe Root",
+    "description": "Classical and dependable run-scorer.",
+    "image": "images/cricket/34.jpg"
+  },
+  {
+    "id": "cricket-35",
+    "category": "cricket",
+    "subcategory": "England",
+    "name": "James Anderson",
+    "description": "Swing king with the most pace wickets.",
+    "image": "images/cricket/35.jpg"
+  },
+  {
+    "id": "cricket-36",
+    "category": "cricket",
+    "subcategory": "England",
+    "name": "Kevin Pietersen",
+    "description": "Flamboyant, match-turning batsman.",
+    "image": "images/cricket/36.jpg"
+  },
+  {
+    "id": "cricket-37",
+    "category": "cricket",
+    "subcategory": "New Zealand",
+    "name": "Kane Williamson",
+    "description": "Calm, classy batting captain.",
+    "image": "images/cricket/37.jpg"
+  },
+  {
+    "id": "cricket-38",
+    "category": "cricket",
+    "subcategory": "New Zealand",
+    "name": "Trent Boult",
+    "description": "Left-arm swing-bowling ace.",
+    "image": "images/cricket/38.jpg"
+  },
+  {
+    "id": "cricket-39",
+    "category": "cricket",
+    "subcategory": "New Zealand",
+    "name": "Brendon McCullum",
+    "description": "Fearless attacking leader.",
+    "image": "images/cricket/39.jpg"
+  },
+  {
+    "id": "cricket-40",
+    "category": "cricket",
+    "subcategory": "Bangladesh",
+    "name": "Shakib Al Hasan",
+    "description": "World-class all-round matchwinner.",
+    "image": "images/cricket/40.jpg"
+  }
+]

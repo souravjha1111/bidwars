@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bid Wars — auction & battle</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">BID&nbsp;WARS <small>auction · battle · bragging rights</small></div>
+    <div class="room-chip" id="room-chip" hidden>Room <b id="room-code">—</b></div>
+  </header>
+
+  <main id="app">
+
+    <!-- ================= HOME ================= -->
+    <section class="screen active" id="screen-home">
+      <div class="card-panel">
+        <h1 class="title">Two players.<br>One auction.<br>Winner takes all.</h1>
+        <p class="muted">Draft a squad of characters against a friend, then battle them head-to-head. Play in person on two devices.</p>
+        <label class="field">
+          <span>Your name</span>
+          <input id="name-input" maxlength="16" placeholder="e.g. Sourav" autocomplete="off" />
+        </label>
+        <div class="row">
+          <button class="btn btn-solid" id="btn-create">Create room</button>
+        </div>
+        <div class="or">or join a friend</div>
+        <div class="row">
+          <input id="code-input" class="code-field" maxlength="4" placeholder="CODE" autocomplete="off" />
+          <button class="btn btn-ghost" id="btn-join">Join</button>
+        </div>
+        <p class="err" id="home-err" hidden></p>
+      </div>
+    </section>
+
+    <!-- ================= WAITING ================= -->
+    <section class="screen" id="screen-wait">
+      <div class="card-panel center">
+        <p class="eyebrow">Room code</p>
+        <div class="big-code" id="wait-code">—</div>
+        <p class="muted">Share this code. When your opponent joins, the game begins.</p>
+        <div class="dots"><span></span><span></span><span></span></div>
+        <p class="muted small" id="wait-status">Waiting for opponent…</p>
+      </div>
+    </section>
+
+    <!-- ================= CATEGORY ================= -->
+    <section class="screen" id="screen-category">
+      <div class="card-panel">
+        <p class="eyebrow">Choose your arena</p>
+        <h2 class="title sm">Pick a category</h2>
+        <div class="cat-grid" id="cat-grid"></div>
+        <p class="muted small" id="cat-wait" hidden>Waiting for the host to choose…</p>
+      </div>
+    </section>
+
+    <!-- ================= AUCTION ================= -->
+    <section class="screen" id="screen-auction">
+      <div class="players" id="auction-players"></div>
+
+      <div class="auction-stage">
+        <div class="deal-count" id="deal-count"></div>
+        <div class="entity" id="entity"></div>
+        <div class="bid-state" id="bid-state"></div>
+        <div class="controls" id="auction-controls"></div>
+      </div>
+
+      <div class="log" id="auction-log"></div>
+    </section>
+
+    <!-- ================= BATTLE ================= -->
+    <section class="screen" id="screen-battle">
+      <div class="battle-head">
+        <div class="score" id="score-a"></div>
+        <div class="round-info" id="round-info"></div>
+        <div class="score" id="score-b"></div>
+      </div>
+
+      <div class="battle-stage" id="battle-stage"></div>
+      <div class="controls" id="battle-controls"></div>
+      <div class="hand-wrap" id="hand-wrap"></div>
+    </section>
+
+    <!-- ================= RESULT ================= -->
+    <section class="screen" id="screen-result">
+      <div class="card-panel center">
+        <p class="eyebrow">Final whistle</p>
+        <div class="winner-line" id="winner-line"></div>
+        <div class="final-score" id="final-score"></div>
+        <div class="recap" id="recap"></div>
+        <div class="row center-row">
+          <button class="btn btn-solid" id="btn-again">Play again</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

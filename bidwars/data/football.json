@@ -1,0 +1,322 @@
+[
+  {
+    "id": "football-01",
+    "category": "football",
+    "subcategory": "Argentina",
+    "name": "Lionel Messi",
+    "description": "Magical dribbler and serial Ballon d'Or winner.",
+    "image": "images/football/1.jpg"
+  },
+  {
+    "id": "football-02",
+    "category": "football",
+    "subcategory": "Portugal",
+    "name": "Cristiano Ronaldo",
+    "description": "Prolific goal machine and freak athlete.",
+    "image": "images/football/2.jpg"
+  },
+  {
+    "id": "football-03",
+    "category": "football",
+    "subcategory": "Argentina",
+    "name": "Diego Maradona",
+    "description": "Genius of the Hand of God and 1986.",
+    "image": "images/football/3.jpg"
+  },
+  {
+    "id": "football-04",
+    "category": "football",
+    "subcategory": "Brazil",
+    "name": "Pele",
+    "description": "Three-time World Cup-winning legend.",
+    "image": "images/football/4.jpg"
+  },
+  {
+    "id": "football-05",
+    "category": "football",
+    "subcategory": "Brazil",
+    "name": "Neymar",
+    "description": "Flair-filled attacker and showman.",
+    "image": "images/football/5.jpg"
+  },
+  {
+    "id": "football-06",
+    "category": "football",
+    "subcategory": "France",
+    "name": "Kylian Mbappe",
+    "description": "Lightning-fast, clinical finisher.",
+    "image": "images/football/6.jpg"
+  },
+  {
+    "id": "football-07",
+    "category": "football",
+    "subcategory": "France",
+    "name": "Zinedine Zidane",
+    "description": "Elegant, ball-caressing midfield maestro.",
+    "image": "images/football/7.jpg"
+  },
+  {
+    "id": "football-08",
+    "category": "football",
+    "subcategory": "Brazil",
+    "name": "Ronaldinho",
+    "description": "Joyful magician who played with a smile.",
+    "image": "images/football/8.jpg"
+  },
+  {
+    "id": "football-09",
+    "category": "football",
+    "subcategory": "Brazil",
+    "name": "Ronaldo Nazario",
+    "description": "The original phenomenon striker.",
+    "image": "images/football/9.jpg"
+  },
+  {
+    "id": "football-10",
+    "category": "football",
+    "subcategory": "Brazil",
+    "name": "Kaka",
+    "description": "Silky attacking midfielder and 2007 winner.",
+    "image": "images/football/10.jpg"
+  },
+  {
+    "id": "football-11",
+    "category": "football",
+    "subcategory": "Spain",
+    "name": "Andres Iniesta",
+    "description": "Midfield artist who won the 2010 final.",
+    "image": "images/football/11.jpg"
+  },
+  {
+    "id": "football-12",
+    "category": "football",
+    "subcategory": "Spain",
+    "name": "Xavi",
+    "description": "The metronome of tiki-taka passing.",
+    "image": "images/football/12.jpg"
+  },
+  {
+    "id": "football-13",
+    "category": "football",
+    "subcategory": "Spain",
+    "name": "Sergio Ramos",
+    "description": "Commanding, goal-scoring defender.",
+    "image": "images/football/13.jpg"
+  },
+  {
+    "id": "football-14",
+    "category": "football",
+    "subcategory": "Spain",
+    "name": "Iker Casillas",
+    "description": "Reflex-savvy Saint Iker in goal.",
+    "image": "images/football/14.jpg"
+  },
+  {
+    "id": "football-15",
+    "category": "football",
+    "subcategory": "Croatia",
+    "name": "Luka Modric",
+    "description": "Elegant, tireless midfield general.",
+    "image": "images/football/15.jpg"
+  },
+  {
+    "id": "football-16",
+    "category": "football",
+    "subcategory": "Poland",
+    "name": "Robert Lewandowski",
+    "description": "Ruthless world-class goalscorer.",
+    "image": "images/football/16.jpg"
+  },
+  {
+    "id": "football-17",
+    "category": "football",
+    "subcategory": "Germany",
+    "name": "Manuel Neuer",
+    "description": "Sweeper-keeper who redefined the role.",
+    "image": "images/football/17.jpg"
+  },
+  {
+    "id": "football-18",
+    "category": "football",
+    "subcategory": "Germany",
+    "name": "Thomas Muller",
+    "description": "Space-finding 'Raumdeuter' scorer.",
+    "image": "images/football/18.jpg"
+  },
+  {
+    "id": "football-19",
+    "category": "football",
+    "subcategory": "Germany",
+    "name": "Toni Kroos",
+    "description": "Pinpoint passing midfield metronome.",
+    "image": "images/football/19.jpg"
+  },
+  {
+    "id": "football-20",
+    "category": "football",
+    "subcategory": "Germany",
+    "name": "Franz Beckenbauer",
+    "description": "Der Kaiser, the elegant libero.",
+    "image": "images/football/20.jpg"
+  },
+  {
+    "id": "football-21",
+    "category": "football",
+    "subcategory": "Belgium",
+    "name": "Kevin De Bruyne",
+    "description": "Visionary assist-machine playmaker.",
+    "image": "images/football/21.jpg"
+  },
+  {
+    "id": "football-22",
+    "category": "football",
+    "subcategory": "Belgium",
+    "name": "Eden Hazard",
+    "description": "Twinkle-toed dribbling winger.",
+    "image": "images/football/22.jpg"
+  },
+  {
+    "id": "football-23",
+    "category": "football",
+    "subcategory": "Egypt",
+    "name": "Mohamed Salah",
+    "description": "Explosive Egyptian King goalscorer.",
+    "image": "images/football/23.jpg"
+  },
+  {
+    "id": "football-24",
+    "category": "football",
+    "subcategory": "Norway",
+    "name": "Erling Haaland",
+    "description": "Towering, record-breaking goal robot.",
+    "image": "images/football/24.jpg"
+  },
+  {
+    "id": "football-25",
+    "category": "football",
+    "subcategory": "Netherlands",
+    "name": "Virgil van Dijk",
+    "description": "Dominant, composed centre-back.",
+    "image": "images/football/25.jpg"
+  },
+  {
+    "id": "football-26",
+    "category": "football",
+    "subcategory": "Netherlands",
+    "name": "Johan Cruyff",
+    "description": "Total Football icon and innovator.",
+    "image": "images/football/26.jpg"
+  },
+  {
+    "id": "football-27",
+    "category": "football",
+    "subcategory": "Netherlands",
+    "name": "Marco van Basten",
+    "description": "Sublime volleying striker.",
+    "image": "images/football/27.jpg"
+  },
+  {
+    "id": "football-28",
+    "category": "football",
+    "subcategory": "England",
+    "name": "Harry Kane",
+    "description": "Clinical finisher and deep playmaker.",
+    "image": "images/football/28.jpg"
+  },
+  {
+    "id": "football-29",
+    "category": "football",
+    "subcategory": "England",
+    "name": "Wayne Rooney",
+    "description": "Fierce, all-action forward.",
+    "image": "images/football/29.jpg"
+  },
+  {
+    "id": "football-30",
+    "category": "football",
+    "subcategory": "England",
+    "name": "Steven Gerrard",
+    "description": "Driving, big-game midfielder.",
+    "image": "images/football/30.jpg"
+  },
+  {
+    "id": "football-31",
+    "category": "football",
+    "subcategory": "England",
+    "name": "Frank Lampard",
+    "description": "Goal-scoring midfield great.",
+    "image": "images/football/31.jpg"
+  },
+  {
+    "id": "football-32",
+    "category": "football",
+    "subcategory": "England",
+    "name": "David Beckham",
+    "description": "Set-piece and crossing maestro.",
+    "image": "images/football/32.jpg"
+  },
+  {
+    "id": "football-33",
+    "category": "football",
+    "subcategory": "France",
+    "name": "Thierry Henry",
+    "description": "Silky, lethal Arsenal legend.",
+    "image": "images/football/33.jpg"
+  },
+  {
+    "id": "football-34",
+    "category": "football",
+    "subcategory": "Sweden",
+    "name": "Zlatan Ibrahimovic",
+    "description": "Audacious, acrobatic goal-scorer.",
+    "image": "images/football/34.jpg"
+  },
+  {
+    "id": "football-35",
+    "category": "football",
+    "subcategory": "Italy",
+    "name": "Andrea Pirlo",
+    "description": "Deep-lying playmaking maestro.",
+    "image": "images/football/35.jpg"
+  },
+  {
+    "id": "football-36",
+    "category": "football",
+    "subcategory": "Italy",
+    "name": "Paolo Maldini",
+    "description": "Timeless, graceful defensive legend.",
+    "image": "images/football/36.jpg"
+  },
+  {
+    "id": "football-37",
+    "category": "football",
+    "subcategory": "Italy",
+    "name": "Gianluigi Buffon",
+    "description": "Ageless goalkeeping great.",
+    "image": "images/football/37.jpg"
+  },
+  {
+    "id": "football-38",
+    "category": "football",
+    "subcategory": "Uruguay",
+    "name": "Luis Suarez",
+    "description": "Ruthless, cunning striker.",
+    "image": "images/football/38.jpg"
+  },
+  {
+    "id": "football-39",
+    "category": "football",
+    "subcategory": "Northern Ireland",
+    "name": "George Best",
+    "description": "Dazzling dribbling icon.",
+    "image": "images/football/39.jpg"
+  },
+  {
+    "id": "football-40",
+    "category": "football",
+    "subcategory": "Senegal",
+    "name": "Sadio Mane",
+    "description": "Fast, direct attacking force.",
+    "image": "images/football/40.jpg"
+  }
+]

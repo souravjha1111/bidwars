@@ -1,0 +1,322 @@
+[
+  {
+    "id": "marvel-01",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Iron Man",
+    "description": "Genius billionaire in a powered suit of armor.",
+    "image": "images/marvel/1.jpg"
+  },
+  {
+    "id": "marvel-02",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Captain America",
+    "description": "Super-soldier with an unbreakable vibranium shield.",
+    "image": "images/marvel/2.jpg"
+  },
+  {
+    "id": "marvel-03",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Thor",
+    "description": "Asgardian god of thunder wielding Mjolnir.",
+    "image": "images/marvel/3.jpg"
+  },
+  {
+    "id": "marvel-04",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Hulk",
+    "description": "The angrier he gets, the stronger he smashes.",
+    "image": "images/marvel/4.jpg"
+  },
+  {
+    "id": "marvel-05",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Black Widow",
+    "description": "Master spy and lethal hand-to-hand fighter.",
+    "image": "images/marvel/5.jpg"
+  },
+  {
+    "id": "marvel-06",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Hawkeye",
+    "description": "Never-miss archer with a quiver of trick arrows.",
+    "image": "images/marvel/6.jpg"
+  },
+  {
+    "id": "marvel-07",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Scarlet Witch",
+    "description": "Reality-bending wielder of chaos magic.",
+    "image": "images/marvel/7.jpg"
+  },
+  {
+    "id": "marvel-08",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Vision",
+    "description": "Synthezoid android powered by the Mind Stone.",
+    "image": "images/marvel/8.jpg"
+  },
+  {
+    "id": "marvel-09",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Doctor Strange",
+    "description": "Sorcerer Supreme guarding the multiverse.",
+    "image": "images/marvel/9.jpg"
+  },
+  {
+    "id": "marvel-10",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Spider-Man",
+    "description": "Web-slinging teen with a tingling spider-sense.",
+    "image": "images/marvel/10.jpg"
+  },
+  {
+    "id": "marvel-11",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Black Panther",
+    "description": "Wakanda's vibranium-clad warrior king.",
+    "image": "images/marvel/11.jpg"
+  },
+  {
+    "id": "marvel-12",
+    "category": "marvel",
+    "subcategory": "Cosmic",
+    "name": "Captain Marvel",
+    "description": "Photon-blasting powerhouse of the cosmos.",
+    "image": "images/marvel/12.jpg"
+  },
+  {
+    "id": "marvel-13",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Ant-Man",
+    "description": "Shrinks and grows using Pym particles.",
+    "image": "images/marvel/13.jpg"
+  },
+  {
+    "id": "marvel-14",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Wasp",
+    "description": "Winged, shrinking aerial combatant.",
+    "image": "images/marvel/14.jpg"
+  },
+  {
+    "id": "marvel-15",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Falcon",
+    "description": "Winged flier and the new Captain America.",
+    "image": "images/marvel/15.jpg"
+  },
+  {
+    "id": "marvel-16",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Winter Soldier",
+    "description": "Cybernetic-armed elite assassin.",
+    "image": "images/marvel/16.jpg"
+  },
+  {
+    "id": "marvel-17",
+    "category": "marvel",
+    "subcategory": "Guardians",
+    "name": "Star-Lord",
+    "description": "Wisecracking leader of the Guardians.",
+    "image": "images/marvel/17.jpg"
+  },
+  {
+    "id": "marvel-18",
+    "category": "marvel",
+    "subcategory": "Guardians",
+    "name": "Gamora",
+    "description": "The deadliest woman in the whole galaxy.",
+    "image": "images/marvel/18.jpg"
+  },
+  {
+    "id": "marvel-19",
+    "category": "marvel",
+    "subcategory": "Guardians",
+    "name": "Rocket Raccoon",
+    "description": "Gun-loving genius bounty hunter.",
+    "image": "images/marvel/19.jpg"
+  },
+  {
+    "id": "marvel-20",
+    "category": "marvel",
+    "subcategory": "Guardians",
+    "name": "Groot",
+    "description": "Tree-like giant who only says 'I am Groot.'",
+    "image": "images/marvel/20.jpg"
+  },
+  {
+    "id": "marvel-21",
+    "category": "marvel",
+    "subcategory": "Guardians",
+    "name": "Drax",
+    "description": "Literal-minded warrior seeking vengeance.",
+    "image": "images/marvel/21.jpg"
+  },
+  {
+    "id": "marvel-22",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Wolverine",
+    "description": "Adamantium claws and a savage healing factor.",
+    "image": "images/marvel/22.jpg"
+  },
+  {
+    "id": "marvel-23",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Storm",
+    "description": "Mutant who commands wind, rain and lightning.",
+    "image": "images/marvel/23.jpg"
+  },
+  {
+    "id": "marvel-24",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Cyclops",
+    "description": "Fires destructive optic blasts from his eyes.",
+    "image": "images/marvel/24.jpg"
+  },
+  {
+    "id": "marvel-25",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Jean Grey",
+    "description": "Telepath who hosts the fiery Phoenix Force.",
+    "image": "images/marvel/25.jpg"
+  },
+  {
+    "id": "marvel-26",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Professor X",
+    "description": "The world's most powerful telepath.",
+    "image": "images/marvel/26.jpg"
+  },
+  {
+    "id": "marvel-27",
+    "category": "marvel",
+    "subcategory": "Villains",
+    "name": "Magneto",
+    "description": "Master of magnetism and mutant liberation.",
+    "image": "images/marvel/27.jpg"
+  },
+  {
+    "id": "marvel-28",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Deadpool",
+    "description": "Unkillable, fourth-wall-breaking mercenary.",
+    "image": "images/marvel/28.jpg"
+  },
+  {
+    "id": "marvel-29",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Daredevil",
+    "description": "Blind lawyer with radar-sharp senses.",
+    "image": "images/marvel/29.jpg"
+  },
+  {
+    "id": "marvel-30",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Punisher",
+    "description": "A one-man war on organized crime.",
+    "image": "images/marvel/30.jpg"
+  },
+  {
+    "id": "marvel-31",
+    "category": "marvel",
+    "subcategory": "Villains",
+    "name": "Loki",
+    "description": "God of mischief and silver-tongued trickster.",
+    "image": "images/marvel/31.jpg"
+  },
+  {
+    "id": "marvel-32",
+    "category": "marvel",
+    "subcategory": "Villains",
+    "name": "Thanos",
+    "description": "Mad titan hunting the six Infinity Stones.",
+    "image": "images/marvel/32.jpg"
+  },
+  {
+    "id": "marvel-33",
+    "category": "marvel",
+    "subcategory": "Villains",
+    "name": "Ultron",
+    "description": "Rogue AI bent on human extinction.",
+    "image": "images/marvel/33.jpg"
+  },
+  {
+    "id": "marvel-34",
+    "category": "marvel",
+    "subcategory": "Villains",
+    "name": "Green Goblin",
+    "description": "Glider-riding, pumpkin-bombing madman.",
+    "image": "images/marvel/34.jpg"
+  },
+  {
+    "id": "marvel-35",
+    "category": "marvel",
+    "subcategory": "Villains",
+    "name": "Venom",
+    "description": "Alien symbiote with a taste for chaos.",
+    "image": "images/marvel/35.jpg"
+  },
+  {
+    "id": "marvel-36",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Nick Fury",
+    "description": "One-eyed spymaster of S.H.I.E.L.D.",
+    "image": "images/marvel/36.jpg"
+  },
+  {
+    "id": "marvel-37",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Ghost-Spider",
+    "description": "Gwen Stacy's spider-powered hero alter ego.",
+    "image": "images/marvel/37.jpg"
+  },
+  {
+    "id": "marvel-38",
+    "category": "marvel",
+    "subcategory": "Cosmic",
+    "name": "Silver Surfer",
+    "description": "Cosmic herald riding a shimmering board.",
+    "image": "images/marvel/38.jpg"
+  },
+  {
+    "id": "marvel-39",
+    "category": "marvel",
+    "subcategory": "Cosmic",
+    "name": "Nova",
+    "description": "Helmet-powered member of the Nova Corps.",
+    "image": "images/marvel/39.jpg"
+  },
+  {
+    "id": "marvel-40",
+    "category": "marvel",
+    "subcategory": "Street-Level",
+    "name": "Moon Knight",
+    "description": "Moon-god avatar with fractured identities.",
+    "image": "images/marvel/40.jpg"
+  }
+]

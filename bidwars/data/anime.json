@@ -1,0 +1,322 @@
+[
+  {
+    "id": "anime-01",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "name": "Goku",
+    "description": "Saiyan who lives to fight the strongest foes.",
+    "image": "images/anime/1.jpg"
+  },
+  {
+    "id": "anime-02",
+    "category": "anime",
+    "subcategory": "Dragon Ball",
+    "name": "Vegeta",
+    "description": "Prideful Saiyan prince and elite warrior.",
+    "image": "images/anime/2.jpg"
+  },
+  {
+    "id": "anime-03",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "name": "Naruto Uzumaki",
+    "description": "Ninja with the Nine-Tails and huge dreams.",
+    "image": "images/anime/3.jpg"
+  },
+  {
+    "id": "anime-04",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "name": "Sasuke Uchiha",
+    "description": "Avenger genius wielding the Sharingan.",
+    "image": "images/anime/4.jpg"
+  },
+  {
+    "id": "anime-05",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "name": "Kakashi Hatake",
+    "description": "Copy-ninja who has mastered a thousand jutsu.",
+    "image": "images/anime/5.jpg"
+  },
+  {
+    "id": "anime-06",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "name": "Itachi Uchiha",
+    "description": "Tragic prodigy of the Uchiha clan.",
+    "image": "images/anime/6.jpg"
+  },
+  {
+    "id": "anime-07",
+    "category": "anime",
+    "subcategory": "Naruto",
+    "name": "Gaara",
+    "description": "Sand-wielding former jinchuriki turned Kazekage.",
+    "image": "images/anime/7.jpg"
+  },
+  {
+    "id": "anime-08",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "name": "Monkey D. Luffy",
+    "description": "Rubber-bodied pirate chasing the One Piece.",
+    "image": "images/anime/8.jpg"
+  },
+  {
+    "id": "anime-09",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "name": "Roronoa Zoro",
+    "description": "Three-sword swordsman with no sense of direction.",
+    "image": "images/anime/9.jpg"
+  },
+  {
+    "id": "anime-10",
+    "category": "anime",
+    "subcategory": "One Piece",
+    "name": "Sanji",
+    "description": "Chivalrous chef who fights only with his legs.",
+    "image": "images/anime/10.jpg"
+  },
+  {
+    "id": "anime-11",
+    "category": "anime",
+    "subcategory": "Bleach",
+    "name": "Ichigo Kurosaki",
+    "description": "Substitute Soul Reaper with a giant blade.",
+    "image": "images/anime/11.jpg"
+  },
+  {
+    "id": "anime-12",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "name": "Light Yagami",
+    "description": "Genius who kills criminals with a notebook.",
+    "image": "images/anime/12.jpg"
+  },
+  {
+    "id": "anime-13",
+    "category": "anime",
+    "subcategory": "Death Note",
+    "name": "L",
+    "description": "Sweet-toothed, crouching detective genius.",
+    "image": "images/anime/13.jpg"
+  },
+  {
+    "id": "anime-14",
+    "category": "anime",
+    "subcategory": "Fullmetal Alchemist",
+    "name": "Edward Elric",
+    "description": "Alchemist chasing the Philosopher's Stone.",
+    "image": "images/anime/14.jpg"
+  },
+  {
+    "id": "anime-15",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "name": "Eren Yeager",
+    "description": "Boy who becomes a Titan to fight them.",
+    "image": "images/anime/15.jpg"
+  },
+  {
+    "id": "anime-16",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "name": "Levi Ackerman",
+    "description": "Humanity's strongest soldier.",
+    "image": "images/anime/16.jpg"
+  },
+  {
+    "id": "anime-17",
+    "category": "anime",
+    "subcategory": "Attack on Titan",
+    "name": "Mikasa Ackerman",
+    "description": "Fiercely loyal elite Titan-slayer.",
+    "image": "images/anime/17.jpg"
+  },
+  {
+    "id": "anime-18",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "name": "Tanjiro Kamado",
+    "description": "Kind-hearted swordsman hunting demons.",
+    "image": "images/anime/18.jpg"
+  },
+  {
+    "id": "anime-19",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "name": "Nezuko Kamado",
+    "description": "Demon sister who fights to protect humans.",
+    "image": "images/anime/19.jpg"
+  },
+  {
+    "id": "anime-20",
+    "category": "anime",
+    "subcategory": "Demon Slayer",
+    "name": "Zenitsu Agatsuma",
+    "description": "Cowardly blade master when fast asleep.",
+    "image": "images/anime/20.jpg"
+  },
+  {
+    "id": "anime-21",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "name": "Gojo Satoru",
+    "description": "Strongest sorcerer, cursed with Infinity.",
+    "image": "images/anime/21.jpg"
+  },
+  {
+    "id": "anime-22",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "name": "Yuji Itadori",
+    "description": "Kind host to the King of Curses.",
+    "image": "images/anime/22.jpg"
+  },
+  {
+    "id": "anime-23",
+    "category": "anime",
+    "subcategory": "Jujutsu Kaisen",
+    "name": "Sukuna",
+    "description": "Ancient, ruthless King of Curses.",
+    "image": "images/anime/23.jpg"
+  },
+  {
+    "id": "anime-24",
+    "category": "anime",
+    "subcategory": "One Punch Man",
+    "name": "Saitama",
+    "description": "Bored hero who wins with a single punch.",
+    "image": "images/anime/24.jpg"
+  },
+  {
+    "id": "anime-25",
+    "category": "anime",
+    "subcategory": "My Hero Academia",
+    "name": "Izuku Midoriya",
+    "description": "Quirk-inheriting hero-in-training.",
+    "image": "images/anime/25.jpg"
+  },
+  {
+    "id": "anime-26",
+    "category": "anime",
+    "subcategory": "My Hero Academia",
+    "name": "All Might",
+    "description": "The smiling Symbol of Peace.",
+    "image": "images/anime/26.jpg"
+  },
+  {
+    "id": "anime-27",
+    "category": "anime",
+    "subcategory": "My Hero Academia",
+    "name": "Katsuki Bakugo",
+    "description": "Explosive, hot-tempered prodigy.",
+    "image": "images/anime/27.jpg"
+  },
+  {
+    "id": "anime-28",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "name": "Gon Freecss",
+    "description": "Cheerful boy hunting for his father.",
+    "image": "images/anime/28.jpg"
+  },
+  {
+    "id": "anime-29",
+    "category": "anime",
+    "subcategory": "Hunter x Hunter",
+    "name": "Killua Zoldyck",
+    "description": "Assassin prodigy with lightning speed.",
+    "image": "images/anime/29.jpg"
+  },
+  {
+    "id": "anime-30",
+    "category": "anime",
+    "subcategory": "Cowboy Bebop",
+    "name": "Spike Spiegel",
+    "description": "Laid-back bounty hunter with a dark past.",
+    "image": "images/anime/30.jpg"
+  },
+  {
+    "id": "anime-31",
+    "category": "anime",
+    "subcategory": "Berserk",
+    "name": "Guts",
+    "description": "The Black Swordsman swinging a colossal blade.",
+    "image": "images/anime/31.jpg"
+  },
+  {
+    "id": "anime-32",
+    "category": "anime",
+    "subcategory": "Code Geass",
+    "name": "Lelouch Lamperouge",
+    "description": "Exiled prince who commands with Geass.",
+    "image": "images/anime/32.jpg"
+  },
+  {
+    "id": "anime-33",
+    "category": "anime",
+    "subcategory": "Yu Yu Hakusho",
+    "name": "Yusuke Urameshi",
+    "description": "Delinquent turned Spirit Detective.",
+    "image": "images/anime/33.jpg"
+  },
+  {
+    "id": "anime-34",
+    "category": "anime",
+    "subcategory": "Inuyasha",
+    "name": "Inuyasha",
+    "description": "Half-demon wielding the mighty Tessaiga.",
+    "image": "images/anime/34.jpg"
+  },
+  {
+    "id": "anime-35",
+    "category": "anime",
+    "subcategory": "Fairy Tail",
+    "name": "Natsu Dragneel",
+    "description": "Fire dragon slayer mage of Fairy Tail.",
+    "image": "images/anime/35.jpg"
+  },
+  {
+    "id": "anime-36",
+    "category": "anime",
+    "subcategory": "Fairy Tail",
+    "name": "Erza Scarlet",
+    "description": "Armor-swapping warrior queen.",
+    "image": "images/anime/36.jpg"
+  },
+  {
+    "id": "anime-37",
+    "category": "anime",
+    "subcategory": "Tokyo Ghoul",
+    "name": "Ken Kaneki",
+    "description": "Half-ghoul torn between two worlds.",
+    "image": "images/anime/37.jpg"
+  },
+  {
+    "id": "anime-38",
+    "category": "anime",
+    "subcategory": "Seven Deadly Sins",
+    "name": "Meliodas",
+    "description": "Dragon's Sin with hidden demonic power.",
+    "image": "images/anime/38.jpg"
+  },
+  {
+    "id": "anime-39",
+    "category": "anime",
+    "subcategory": "Vinland Saga",
+    "name": "Thorfinn",
+    "description": "Vengeful young Viking seeking peace.",
+    "image": "images/anime/39.jpg"
+  },
+  {
+    "id": "anime-40",
+    "category": "anime",
+    "subcategory": "Chainsaw Man",
+    "name": "Denji",
+    "description": "Devil hunter who transforms into a chainsaw.",
+    "image": "images/anime/40.jpg"
+  }
+]
