@@ -318,5 +318,229 @@
     "name": "Moon Knight",
     "description": "Moon-god avatar with fractured identities.",
     "image": "images/marvel/40.jpg"
+  },
+  [
+  {
+    "id": "marvel-41",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Shang-Chi",
+    "description": "Master martial artist with extraordinary combat skills.",
+    "image": "images/marvel/41.jpg"
+  },
+  {
+    "id": "marvel-42",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "She-Hulk",
+    "description": "Brilliant lawyer with the strength of the Hulk.",
+    "image": "images/marvel/42.jpg"
+  },
+  {
+    "id": "marvel-43",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Ms. Marvel",
+    "description": "Young hero who can create powerful energy constructs.",
+    "image": "images/marvel/43.jpg"
+  },
+  {
+    "id": "marvel-44",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Quicksilver",
+    "description": "Mutant speedster who moves faster than the eye can see.",
+    "image": "images/marvel/44.jpg"
+  },
+  {
+    "id": "marvel-45",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "War Machine",
+    "description": "Armored soldier equipped with heavy military weaponry.",
+    "image": "images/marvel/45.jpg"
+  },
+  {
+    "id": "marvel-46",
+    "category": "marvel",
+    "subcategory": "Avengers",
+    "name": "Vision",
+    "description": "Powerful synthezoid with density-shifting abilities.",
+    "image": "images/marvel/46.jpg"
+  },
+  {
+    "id": "marvel-47",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Beast",
+    "description": "Brilliant mutant scientist with superhuman agility and strength.",
+    "image": "images/marvel/47.jpg"
+  },
+  {
+    "id": "marvel-48",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Rogue",
+    "description": "Mutant who absorbs powers and memories through touch.",
+    "image": "images/marvel/48.jpg"
+  },
+  {
+    "id": "marvel-49",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Gambit",
+    "description": "Charming mutant who charges objects with explosive energy.",
+    "image": "images/marvel/49.jpg"
+  },
+  {
+    "id": "marvel-50",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Nightcrawler",
+    "description": "Teleporting mutant with incredible agility and acrobatics.",
+    "image": "images/marvel/50.jpg"
+  },
+  {
+    "id": "marvel-51",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Colossus",
+    "description": "Mutant who transforms his body into organic steel.",
+    "image": "images/marvel/51.jpg"
+  },
+  {
+    "id": "marvel-52",
+    "category": "marvel",
+    "subcategory": "X-Men",
+    "name": "Kitty Pryde",
+    "description": "Mutant who can phase through solid matter.",
+    "image": "images/marvel/52.jpg"
+  },
+  {
+    "id": "marvel-53",
+    "category": "X-Men",
+    "name": "Iceman",
+    "description": "Mutant capable of creating and controlling powerful ice.",
+    "image": "images/marvel/53.jpg"
+  },
+  {
+    "id": "marvel-54",
+    "category": "X-Men",
+    "name": "Jubilee",
+    "description": "Mutant who creates dazzling explosive plasma bursts.",
+    "image": "images/marvel/54.jpg"
+  },
+  {
+    "id": "marvel-55",
+    "category": "X-Men",
+    "name": "Psylocke",
+    "description": "Telepathic warrior who wields powerful psychic blades.",
+    "image": "images/marvel/55.jpg"
+  },
+  {
+    "id": "marvel-56",
+    "category": "Guardians",
+    "name": "Mantis",
+    "description": "Empathic alien who can sense and influence emotions.",
+    "image": "images/marvel/56.jpg"
+  },
+  {
+    "id": "marvel-57",
+    "category": "Guardians",
+    "name": "Nebula",
+    "description": "Cybernetically enhanced warrior and fierce space pirate.",
+    "image": "images/marvel/57.jpg"
+  },
+  {
+    "id": "marvel-58",
+    "category": "Guardians",
+    "name": "Yondu",
+    "description": "Ravager leader who controls a deadly flying arrow.",
+    "image": "images/marvel/58.jpg"
+  },
+  {
+    "id": "marvel-59",
+    "category": "Guardians",
+    "name": "Adam Warlock",
+    "description": "Powerful cosmic being with immense energy manipulation abilities.",
+    "image": "images/marvel/59.jpg"
+  },
+  {
+    "id": "marvel-60",
+    "category": "Guardians",
+    "name": "Cosmo",
+    "description": "Telepathic space dog serving as a Guardian ally.",
+    "image": "images/marvel/60.jpg"
+  },
+  {
+    "id": "marvel-61",
+    "category": "Cosmic",
+    "name": "Galactus",
+    "description": "Cosmic entity who consumes planets to sustain himself.",
+    "image": "images/marvel/61.jpg"
+  },
+  {
+    "id": "marvel-62",
+    "category": "Cosmic",
+    "name": "Eternity",
+    "description": "Abstract cosmic entity representing the entire universe.",
+    "image": "images/marvel/62.jpg"
+  },
+  {
+    "id": "marvel-63",
+    "category": "Cosmic",
+    "name": "Adam Warlock",
+    "description": "Cosmic hero possessing immense strength and mystical power.",
+    "image": "images/marvel/63.jpg"
+  },
+  {
+    "id": "marvel-64",
+    "category": "Cosmic",
+    "name": "Beta Ray Bill",
+    "description": "Korbinite warrior worthy of wielding a mystical hammer.",
+    "image": "images/marvel/64.jpg"
+  },
+  {
+    "id": "marvel-65",
+    "category": "Cosmic",
+    "name": "Kang the Conqueror",
+    "description": "Time-traveling conqueror who commands advanced technology.",
+    "image": "images/marvel/65.jpg"
+  },
+  {
+    "id": "marvel-66",
+    "category": "Villains",
+    "name": "Kingpin",
+    "description": "Powerful crime lord who rules New York's underworld.",
+    "image": "images/marvel/66.jpg"
+  },
+  {
+    "id": "marvel-67",
+    "category": "Villains",
+    "name": "Doctor Doom",
+    "description": "Armored genius and ruler of the nation of Latveria.",
+    "image": "images/marvel/67.jpg"
+  },
+  {
+    "id": "marvel-68",
+    "category": "Villains",
+    "name": "Red Skull",
+    "description": "Ruthless Nazi villain and longtime enemy of Captain America.",
+    "image": "images/marvel/68.jpg"
+  },
+  {
+    "id": "marvel-69",
+    "category": "Villains",
+    "name": "Mysterio",
+    "description": "Master illusionist who uses advanced technology to deceive heroes.",
+    "image": "images/marvel/69.jpg"
+  },
+  {
+    "id": "marvel-70",
+    "category": "Villains",
+    "name": "Carnage",
+    "description": "Violent symbiote bonded to the dangerous Cletus Kasady.",
+    "image": "images/marvel/70.jpg"
   }
+]
 ]
